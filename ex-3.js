@@ -8,6 +8,7 @@ const todos = [
 
 function getTodoTopics(todos) {
   // Start coding here
+	
 }
 
 getTodoTopics(todos);
